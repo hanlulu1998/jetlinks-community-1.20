@@ -32,7 +32,7 @@
         <fastjson.version>1.2.83</fastjson.version>
         <reactor.version>2020.0.18</reactor.version>
         <vertx.version>4.3.0</vertx.version>
-        <log4j.version>2.17.1</log4j.version>
+        <log4j.version>2.25.3</log4j.version>
         <logback.version>1.2.9</logback.version>
         <springdoc.version>1.6.6</springdoc.version>
         <jackson.version>2.13.2.20220328</jackson.version>
